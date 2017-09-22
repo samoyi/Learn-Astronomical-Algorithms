@@ -1,5 +1,13 @@
 ;"use strict";
 
+// TODO
+/*
+* If queried word has disambiguation, an error will be thrown.
+* Defferent languages use different API, but now i can not detect the language
+*    of a queried word.
+*/
+
+
 const https = require('https');
 
 const fs = require('fs');
