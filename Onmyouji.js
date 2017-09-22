@@ -1,7 +1,7 @@
 ;"use strict";
 
 
-const Astrology = require('./Skill/Astrology/Astrology.js');
+const Astrology = require('./Skill/Astrology.js');
 
 
 function Onmyouji(){};
