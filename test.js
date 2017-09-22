@@ -11,6 +11,6 @@ const Wikipedia = require('./Basic/Wikipedia.js');
 
 let wikipedia = new Wikipedia();
 
-wikipedia.getExtract('アメリカ合衆国陸軍省', function(res){
+wikipedia.getExtract('中国', function(res){
     console.log(res);
 });
