@@ -18,5 +18,4 @@ Object.defineProperties(prototype, {
 
 Onmyouji.prototype = prototype;
 
-
-module.exports = new Onmyouji();
+module.exports = Object.freeze(new Onmyouji());
