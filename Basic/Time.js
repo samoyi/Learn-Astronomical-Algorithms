@@ -16,7 +16,6 @@ Object.defineProperties(prototype, {
         value(){
             return new Date( Date.now()+(this.timezone-this.localTimezone)*3600000 );
         },
-        enumerable: false,
     },
     'year': {
         get(){
