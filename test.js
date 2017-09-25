@@ -1,5 +1,31 @@
 ;"use strict";
 
+
+
+
+console.trace();
+
+
+
+
+
+
+// const __String = require('./Private/__String');
+// let __string = new __String();
+//
+// console.log(__string.strLen('𠮷'));
+
+
+
+
+
+
+
+
+
+
+
+
 // const Onmyouji = require('./Onmyouji.js');
 //
 // let astrology = Onmyouji.astrology();
@@ -7,13 +33,18 @@
 // console.log( astrology.time.hour );
 
 
-const Wikipedia = require('./Basic/Wikipedia.js');
 
-let wikipedia = new Wikipedia('ja');
 
-wikipedia.getExtract('陰陽師', function(aExtract){
-    console.log(aExtract);
-});
+
+
+
+
+
+
+
+
+
+
 
 
 
