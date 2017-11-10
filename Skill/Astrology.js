@@ -1,4 +1,4 @@
-;"use strict";
+"use strict";
 
 const Time = require('../Basic/Time.js');
 
